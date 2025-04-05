@@ -35,6 +35,6 @@ Cuando el jugador descubre todas las casillas seguras, los botones que contenian
 
 Si el jugador hace clic en una mina, todas las minas ocultas se revelarán con imágenes de bombas, indicando la derrota.
 
-![Estado de derrota (cambio a minas)](/test-gif/Victoria.gif) 
+![Estado de derrota (cambio a minas)](/test-gif/Muerte.gif) 
 
 
